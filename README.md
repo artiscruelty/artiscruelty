@@ -57,7 +57,7 @@
 ### My social medias:
 
 <div id="badges">
-  <a href="hhttps://www.linkedin.com/in/daniel-froes-7b58a9158/">
+  <a href="https://www.linkedin.com/in/daniel-froes-7b58a9158/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
   <a href="https://tinyurl.com/4tjt548d">
