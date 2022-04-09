@@ -29,6 +29,13 @@
   <a href="https://github.com/artiscruelty">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS Badge"/>
   </a>
+  <a href="https://github.com/artiscruelty">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git Badge"/>
+  </a>
+  <a href="https://github.com/artiscruelty">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
+  </a>
+  
 </div>
 
 - Tools
@@ -40,6 +47,31 @@
   <a href="https://github.com/artiscruelty">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express Badge"/>
   </a>
+</div>
+
+### Currently:
+
+- Currently learning about the React framework on personal projects.
+
+### My social medias:
+
+<div id="badges">
+  <a href="hhttps://www.linkedin.com/in/daniel-froes-7b58a9158/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
+  <a href="https://tinyurl.com/4tjt548d">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Zap Badge"/>
+  </a>
+  <a href="https://www.instagram.com/danielfroes__/">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="git Badge"/>
+  </a>
+  <a href="https://www.instagram.com/danielfroes__/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="github Badge"/>
+  </a>
+  <a href="https://www.twitch.tv/thecrabsons">
+    <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="github Badge"/>
+  </a>
+  
 </div>
 
 
