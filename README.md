@@ -6,7 +6,7 @@
 
 ### Languages and Tools:
 
--Main Stack 
+- Main Stack 
 
 <div id="badges">
     <a href="https://github.com/artiscruelty">
