@@ -77,10 +77,11 @@
 </br>
 
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=artiscruelty&show_icons=true&theme=synthwave)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=artiscruelty&show_icons=true&theme=synthwave) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artiscruelty&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=artiscruelty&theme=synthwave)](https://git.io/streak-stats)
 
+<img src="https://c.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" alt="twitch Badge"/>
 
