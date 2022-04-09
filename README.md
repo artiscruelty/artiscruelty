@@ -62,14 +62,14 @@
   <a href="https://tinyurl.com/4tjt548d">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Zap Badge"/>
   </a>
-  <a href="https://www.instagram.com/danielfroes__/">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="git Badge"/>
+  <a href="mailto:danielfroestbf@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>
   <a href="https://www.instagram.com/danielfroes__/">
     <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="github Badge"/>
   </a>
   <a href="https://www.twitch.tv/thecrabsons">
-    <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="github Badge"/>
+    <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch Badge"/>
   </a>
   
 </div>
