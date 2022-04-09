@@ -86,4 +86,4 @@
 
 <img src="https://c.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" alt="twitch Badge"/>
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/artiscruelty/artiscruelty/blob/output/github-contribution-grid-snake.svg)
