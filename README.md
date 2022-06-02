@@ -18,8 +18,8 @@
   <a href="https://github.com/artiscruelty">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
   </a>
-      <a href="https://github.com/artiscruelty">
-    ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+  <a href="https://github.com/artiscruelty">
+    <img src="[https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)" alt="CSS3 Badge"/>
   </a>
 </div>
 
