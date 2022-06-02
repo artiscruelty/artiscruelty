@@ -32,6 +32,9 @@
   <a href="https://github.com/artiscruelty">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS Badge"/>
   </a>
+  <a href="https://github.com/artiscruelty">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+  </a>
 
 </div>
 
