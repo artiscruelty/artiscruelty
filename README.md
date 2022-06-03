@@ -19,6 +19,9 @@
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
   </a>
   <a href="https://github.com/artiscruelty">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge"/>
+  </a>
+  <a href="https://github.com/artiscruelty">
     <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
   </a>
 </div>
@@ -82,6 +85,9 @@
 </div>
 
 </br>
+
+
+https://github-profile-trophy.vercel.app/?username={artiscruelty}
 
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=artiscruelty&show_icons=true&theme=synthwave) 
