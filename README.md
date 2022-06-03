@@ -87,8 +87,6 @@
 </br>
 
 
-https://github-profile-trophy.vercel.app/?artiscruelty={artiscruelty}
-
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=artiscruelty&show_icons=true&theme=synthwave) 
 
