@@ -95,6 +95,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=artiscruelty&theme=synthwave)](https://git.io/streak-stats)
 
-<img src="https://c.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" alt="twitch Badge"/>
+<img src="https://c.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" alt="Gif"/>
 
 ![snake gif](https://github.com/artiscruelty/artiscruelty/blob/output/github-contribution-grid-snake.svg)
